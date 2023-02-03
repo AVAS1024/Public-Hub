@@ -1,0 +1,16 @@
+Практика QA
+Краудтестинг, или Где взять опыт для первой работы...
+habr.com›ru/company/badoo/blog/415289/
+
+Crowdtesting. Исследуем людей, тестируем сервисы.
+crowdtesting.ru
+
+ТОП 10 площадок для краудтестинга | 
+youtube.com›watch?v=W0QGOtath3A
+
+utest
+
+butfindersen
+
+testlio
+
